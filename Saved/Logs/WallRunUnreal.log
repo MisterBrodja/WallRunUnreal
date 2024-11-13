@@ -2163,3 +2163,19 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.11.13-07.40.41:199][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2024.11.13-07.40.41:212][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
 [2024.11.13-07.40.41:283][850]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.11.13-07.41.22:836][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.13-07.41.23:040][401]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.11.13-07.41.23:294][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.11.13-07.41.23:294][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.11.13-07.41.23:309][401]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.11.13-07.41.23:309][401]LogSavePackage: Moving '../../../../../../2_Brassart/Github/WallRunUnreal/WallRunUnreal/Saved/BP_ThirdPersonCharacterCCB4803D493E7732FE69A4B467FEB130.tmp' to '../../../../../../2_Brassart/Github/WallRunUnreal/WallRunUnreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.11.13-07.41.23:325][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 489.562 ms (total: 827.589 ms)
+[2024.11.13-07.41.23:550][401]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.13-07.41.23:550][401]LogContentValidation: Enabled validators:
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.13-07.41.23:550][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.13-07.41.23:550][401]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
